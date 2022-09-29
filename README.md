@@ -1,5 +1,5 @@
 ![](embexus.jpg)
-### Embexus 
+### Embetrix 
 
 - Embedded Linux/Yocto
 - Embedded Security
